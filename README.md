@@ -1,8 +1,8 @@
-# Akeno OS
+# Akeno
 
 ## Overview
 
-Akeno OS is a very basic legacy bootloader that loads a C kernel in 32-bit protected mode. It is not
+Akeno is a very basic legacy bootloader that loads a C kernel in 32-bit protected mode. It is not
 supposed to have any functionality, it is purely for exploring legacy boot loaders.
 
 It was written for educational purposes and is likely not very efficient.
