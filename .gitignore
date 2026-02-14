@@ -1,0 +1,9 @@
+.vs/
+.vscode/
+bin/
+build/
+_old/
+
+CMakePresets.json
+CMakeSettings.json
+compile_flags.txt
