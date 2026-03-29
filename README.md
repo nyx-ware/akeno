@@ -2,8 +2,9 @@
 
 ## Overview
 
-Akeno is a very basic legacy bootloader that loads a C kernel in 32-bit protected mode. It is not
-supposed to have any functionality, it is purely for exploring legacy boot loaders.
+Akeno is a very basic legacy bootloader and operating system hello world.
+
+It is not designed to actually do anything, it just prints a message when it enters the dummy kernel.
 
 It was written for educational purposes and is likely not very efficient.
 
